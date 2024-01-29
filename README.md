@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Samantha Shephard a masters student at ECU
-- 👀 I’m interested in bioinfomatics and genomics in a wide range of fields, though I am particually interested in studies linked to phage therapy.
-- 🌱 I’m currently learning to utilise R and Matlab in the context of clinical biology and systems biology
+- 👋 Hi, I’m Samantha Shephard a masters graduate 
+- 👀 I’m interested in bioinfomatics, particually linked to genomic and transcriptomics within the context of cancer.
+- 🌱 I’m currently learning more about creating sutible github repositories of my past work. I also wish to learn more about the java programing language.
 - 💞️ Not curently looking for colaborations
-- 📫 How to reach me sshephar@our.ecu.edu.au
+- 📫 How to reach me samantha.j.shephard@hotmail.com
 
 <!---
 SShephard/SShephard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
